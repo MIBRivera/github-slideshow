@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back! #Sablay2020AllStars
+#Sablay2020AllStars
+Use the left arrow to go back!
